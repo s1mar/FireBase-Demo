@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">kt</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="login_button">Login</string>
+    <string name="menu_add_image">Add Image</string>
+    <string name="menu_get_images">Fetch Images</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="set_img_fragment_upload_button">Firebase It!!</string>
+</resources>

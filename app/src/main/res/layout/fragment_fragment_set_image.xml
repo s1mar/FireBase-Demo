@@ -1,0 +1,23 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="Fragments.FragmentSetImage">
+
+    <ImageView
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="60dp"
+        android:src="@drawable/image_not_found"
+        android:id="@+id/setImg_img_view"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/setImg_btn_view"
+        android:layout_marginTop="30dp"
+        android:layout_gravity="center"
+        android:text="@string/set_img_fragment_upload_button"/>
+</LinearLayout>
